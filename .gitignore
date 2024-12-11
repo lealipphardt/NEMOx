@@ -2,3 +2,15 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Ignore database files
+*.mdb
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore RData or other session files
+*.RData
+
+# Ignore large data folders
+/data/
